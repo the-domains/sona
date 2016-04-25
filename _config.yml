@@ -1,0 +1,28 @@
+name: sona
+favicon: null
+layout_spectrum: 0.4724018673878163
+typography_spectrum: 0.4314738798420876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5841667610220611
+  lightness: 0.38326972955837846
+  saturation: 0.24845103616826236
+  rhythmicContrast: 0.5436153872869909
+purpose: []
