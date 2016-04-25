@@ -1,29 +1,41 @@
-name: sona
-favicon: null
-layout_spectrum: 0.4724018673878163
-typography_spectrum: 0.4314738798420876
 title: SONA / project case studies
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2484510361682624
+  brandStrength: 0.5841667610220611
+  rhythmicContrast: 0.5436153872869909
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5841667610220611
-  lightness: 0.38326972955837846
-  saturation: 0.24845103616826236
-  rhythmicContrast: 0.5436153872869909
-purpose: []
+  lightness: 0.3832697295583785
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: sona
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9301075
+layout_spectrum: 0.08064516
